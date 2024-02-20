@@ -1,0 +1,4 @@
+server:
+  port: 57254    # server.port=80
+  servlet:
+    context-path: /citest2  # server.servlet.context-path=/probono
